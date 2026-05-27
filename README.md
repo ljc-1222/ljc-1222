@@ -44,7 +44,7 @@
 ## 📓 **Corese Works**
 - [EE341000 Algorithms](https://github.com/ljc-1222/EE341000-Algorithms)
 - [EE366200 Digital Signal Processing Laboratory](https://github.com/ljc-1222/EE366200-Digital-Signal-Processing-Laboratory)
-- [EE655000 Machine Learning]() (to be edited...)
+- [EE655000 Machine Learning](https://github.com/ljc-1222/EE655000-Machine-Learning)
 - [EE662000 Computational Photography](https://github.com/ljc-1222/EE662000-Computational-Photography)
 - [AIA500500 Deep Learning--NYCU]() (to be edited...)
   
