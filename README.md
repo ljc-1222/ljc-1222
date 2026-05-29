@@ -46,5 +46,5 @@
 - [EE366200 Digital Signal Processing Laboratory](https://github.com/ljc-1222/EE366200-Digital-Signal-Processing-Laboratory)
 - [EE655000 Machine Learning](https://github.com/ljc-1222/EE655000-Machine-Learning)
 - [EE662000 Computational Photography](https://github.com/ljc-1222/EE662000-Computational-Photography)
-- [AIA500500 Deep Learning--NYCU]() (to be edited...)
+- [AIA500500 Deep Learning--NYCU](https://github.com/ljc-1222/AIA500500-Deep-Learning--NYCU)
   
