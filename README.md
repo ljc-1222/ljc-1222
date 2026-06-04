@@ -22,20 +22,20 @@
   
   A computational photography toolkit for simulating realistic bokeh and generating all-in-focus images through depth estimation, image alignment, and multi-scale fusion.
 
-- [Marginal distortion correction](https://github.com/ljc-1222/marginal-distortion-correction)
+- [Marginal distortion correction](https://github.com/ljc-1222/marginal-distortion-correction) (Still in progress)
   
   A wide-angle image correction project that reduces marginal distortion by combining ROI-aware mesh warping, line preservation, and optimization-based geometric rectification.
 
   
-- [Self-localization within a floorplan]() (to be edited...)
+- [Self-localization within a floorplan](https://github.com/ljc-1222/semrayloc-hohonet) (Still in progress)
   
   An indoor localization project that implements and evaluates floorplan-based camera pose estimation methods.
   
-- [Order Learning with Large Multimodal Models for Facial Beauty Prediction](https://github.com/ljc-1222/Order-Learning-with-Large-Multimodal-Models-for-Facial-Beauty-Prediction) (to be edited...)
+- [Order Learning with Large Multimodal Models for Facial Beauty Prediction](https://github.com/ljc-1222/Order-Learning-with-Large-Multimodal-Models-for-Facial-Beauty-Prediction) (To be uploaded)
   
   A facial beauty prediction project that explores order learning and large multimodal models as pairwise comparators for more robust aesthetic score estimation.
 
-- [A2C2 Implementation on openpi-comet]() (to be edited...)
+- [A2C2 Implementation on openpi-comet]() (To be uploaded)
   
   Implementation of A2C2 correction head on openpi-comet model.
   
