@@ -35,7 +35,7 @@
   
   A facial beauty prediction project that explores order learning and large multimodal models as pairwise comparators for more robust aesthetic score estimation.
 
-- [A2C2 Implementation on openpi-comet]() (To be uploaded)
+- [A2C2 Implementation on openpi-comet](https://github.com/ljc-1222/b1k) (Still in progress)
   
   Implementation of A2C2 correction head on openpi-comet model.
   
