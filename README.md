@@ -18,6 +18,10 @@
 - Currently exploring <strong>self-localization within floorplans</strong>.
 - Passionate about <strong>photography</strong> and <strong>visual storytelling</strong>.
 ## 🔬 **Projects** 
+- [Order Learning with Large Multimodal Models for Facial Beauty Prediction](https://github.com/ljc-1222/lmol-scut-fbp5500)
+  
+  A facial beauty prediction project that explores order learning and large multimodal models as pairwise comparators for more robust aesthetic score estimation.
+  
 - [Bokeh rendering & Focus stacking suite](https://github.com/ljc-1222/bokeh-rendering-focus-stacking-suite)
   
   A computational photography toolkit for simulating realistic bokeh and generating all-in-focus images through depth estimation, image alignment, and multi-scale fusion.
@@ -31,9 +35,6 @@
   
   An indoor localization project that implements and evaluates floorplan-based camera pose estimation methods.
   
-- [Order Learning with Large Multimodal Models for Facial Beauty Prediction](https://github.com/ljc-1222/Order-Learning-with-Large-Multimodal-Models-for-Facial-Beauty-Prediction) (To be uploaded)
-  
-  A facial beauty prediction project that explores order learning and large multimodal models as pairwise comparators for more robust aesthetic score estimation.
 
 - [A2C2 Implementation on openpi-comet](https://github.com/ljc-1222/b1k) (Still in progress)
   
