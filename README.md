@@ -22,6 +22,10 @@
 
   A reproduction of the ICASSP 2025 LMOL method for facial beauty prediction on SCUT-FBP5500. It fine-tunes LLaVA-1.5-7B for pairwise face comparisons using first-answer-token classification, then recovers absolute ratings through Bradley–Terry estimation.
 
+- [Marine Debris Detection](https://github.com/ljc-1222/Marine-Debris-Detection)
+
+  Won first place in both detection and lightweight optimization at the 2026 International Marine Debris Image Recognition AI Challenge (81.60% mAP@0.5). The 34-class system combines four detectors, weighted boxes fusion, and DINOv3/SigLIP 2 crop classifiers for rescoring and label recovery.
+
 - [BRnFS — Bokeh Rendering & Focus Stacking](https://github.com/ljc-1222/bokeh-rendering-focus-stacking-suite)
 
   A computational photography suite for rendering shallow-depth-of-field bokeh from a single image and fusing multi-focus photographs into an all-in-focus result. It combines depth-based scene processing, image alignment, Laplacian-pyramid fusion, and a unified GUI/CLI.
