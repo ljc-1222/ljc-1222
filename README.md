@@ -18,13 +18,17 @@
 - Currently exploring <strong>self-localization within floorplans</strong>.
 - Passionate about <strong>photography</strong> and <strong>visual storytelling</strong>.
 ## 🔬 **Projects**
-- [LMOL on SCUT-FBP5500](https://github.com/ljc-1222/lmol-scut-fbp5500)
-
-  A reproduction of the ICASSP 2025 LMOL method for facial beauty prediction on SCUT-FBP5500. It fine-tunes LLaVA-1.5-7B for pairwise face comparisons using first-answer-token classification, then recovers absolute ratings through Bradley–Terry estimation.
-
 - [Marine Debris Detection](https://github.com/ljc-1222/Marine-Debris-Detection)
 
   Won first place in both detection and lightweight optimization at the 2026 International Marine Debris Image Recognition AI Challenge (81.60% mAP@0.5). The 34-class system combines four detectors, weighted boxes fusion, and DINOv3/SigLIP 2 crop classifiers for rescoring and label recovery.
+
+- **Self-localization within a Floorplan** (Research in progress; repository private)
+
+  Research on estimating camera poses from RGB observations and known 2D floorplans. The Structured3D-based implementation extends SemRayLoc with a room-aware HoHoNet Stage 1 and a native-grid pose-posterior Stage 2.
+
+- [LMOL on SCUT-FBP5500](https://github.com/ljc-1222/lmol-scut-fbp5500)
+
+  A reproduction of the ICASSP 2025 LMOL method for facial beauty prediction on SCUT-FBP5500. It fine-tunes LLaVA-1.5-7B for pairwise face comparisons using first-answer-token classification, then recovers absolute ratings through Bradley–Terry estimation.
 
 - [BRnFS — Bokeh Rendering & Focus Stacking](https://github.com/ljc-1222/bokeh-rendering-focus-stacking-suite)
 
@@ -37,11 +41,6 @@
 - [A2C2 on OpenPI-Comet](https://github.com/ljc-1222/behavior-a2c2)
 
   An implementation of multimodal residual action correction on a frozen OpenPI-Comet policy for BEHAVIOR-1K. Four loss variants were evaluated on Task 1: offline action errors decreased, but closed-loop performance remained below the unmodified policy.
-
-- **Self-localization within a Floorplan** (Research in progress; repository private)
-
-  Research on estimating camera poses from RGB observations and known 2D floorplans. The Structured3D-based implementation extends SemRayLoc with a room-aware HoHoNet Stage 1 and a native-grid pose-posterior Stage 2.
-
 
 ## 📓 **Corese Works**
 - [EE341000 Algorithms](https://github.com/ljc-1222/EE341000-Algorithms)
