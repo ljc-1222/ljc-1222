@@ -18,7 +18,7 @@
 - Currently exploring <strong>self-localization within floorplans</strong>.
 - Passionate about <strong>photography</strong> and <strong>visual storytelling</strong>.
 ## 🔬 **Projects**
-- [Marine Debris Detection](https://github.com/ljc-1222/Marine-Debris-Detection)
+- [Marine Debris Detection](https://github.com/ljc-1222/International-Marine-Debris-Image-AI-Recognition-Challenge)
 
   Won first place in both detection and lightweight optimization at the 2026 International Marine Debris Image Recognition AI Challenge (81.60% mAP@0.5). The 34-class system combines four detectors, weighted boxes fusion, and DINOv3/SigLIP 2 crop classifiers for rescoring and label recovery.
 
